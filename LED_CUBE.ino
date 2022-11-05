@@ -1,3 +1,6 @@
+// Author: Ashok Saravanan
+// Created 11-21-21
+
 int ledpins[] = {3,5,6,9};
 int groundpins[] = {12,13};
 void setup ()
